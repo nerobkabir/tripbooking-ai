@@ -45,7 +45,7 @@ export default function PopularDestinations() {
             </div>
           ))}
 
-          {/* Browse All Destinations Card */}
+          
           <div className="bg-[#1d5bff] rounded-xl p-5 flex flex-col justify-between" style={{ height: "200px" }}>
             <h3 className="text-white font-bold text-base leading-snug">
               Crafting Your Perfect Travel Experience
